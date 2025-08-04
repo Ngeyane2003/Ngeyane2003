@@ -1,4 +1,4 @@
-- 😍 Hi, I’m Nicky 
+- 😍 Hi, I’m Nelisiwe Ngeyane
 - 💖I’m interested in becoming a software programmer/ developer
 - 🌱 I’m currently learning the basics of Java script
 - 🥲I don't know even know where to start
